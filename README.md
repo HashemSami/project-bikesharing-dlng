@@ -68,7 +68,7 @@ git clone https://github.com/HashemSami/project-bikesharing-dlng.git
 cd project-bikesharing-dlng
 ```
 
-2. Create (and activate) a new environment, named `Image_classifier` with Python 3.6. If prompted to proceed with the install `(Proceed [y]/n)` type y.
+2. Create (and activate) a new environment, named `project-bikesharing-dlng` with Python 3.6. If prompted to proceed with the install `(Proceed [y]/n)` type y.
 
 	- __Linux__ or __Mac__: 
 	```
